@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+*.txt.json
+entities.json
+*.csv
+*.tsv
+.idea/
+checkpoint/
+relations.json
